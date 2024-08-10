@@ -4,3 +4,6 @@
 [Sorting Algorithms:](https://github.com/pgnikolov/algorithms-implementation/tree/main/Sorting-algorithms)
 - [Quick sort](https://github.com/pgnikolov/algorithms-implementation/blob/main/Sorting-algorithms/quick_sort.py)
 - [Bubble sort](https://github.com/pgnikolov/algorithms-implementation/blob/main/Sorting-algorithms/bubble-sort.py)
+
+[Searching Algorithms](https://github.com/pgnikolov/algorithms-implementation/tree/main/Searching-algorithms)
+- [Binary search](https://github.com/pgnikolov/algorithms-implementation/blob/main/Searching-algorithms/binary-search.py)
