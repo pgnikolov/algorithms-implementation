@@ -1,3 +1,4 @@
+# Task from SoftUni Python Fundamentals -  Lists Advance
 # You will receive a number representing the number of wagons a train has.
 # Create a list (train) with the given length containing only zeros.
 # Until you receive the command "End", you will receive some of the following commands:
