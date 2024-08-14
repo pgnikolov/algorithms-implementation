@@ -1,3 +1,4 @@
+# O(log n)
 def binary_search(arr, x):
     left, right = 0, len(arr) - 1
     while left <= right:
